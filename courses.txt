@@ -1,0 +1,2 @@
+course credits score
+CS121 4 80
